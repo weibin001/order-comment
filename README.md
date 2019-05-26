@@ -76,5 +76,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-项目中学习react组件传值及事件绑定,实现订单列表渲染,订单评价等.
+项目中学习react组件传值及事件绑定,实现订单列表渲染,订单评价等.<br>
 学习教程(https://www.imooc.com/video/18081)
